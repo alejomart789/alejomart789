@@ -51,7 +51,7 @@
     {
         "type": "awesomeProjects",
         "data": {
-            "title": "Awesome Projects 📚",
+            "title": "Cajón de Proyectos 📚",
             "count": 9,
             "showEmojis": true,
             "showScore": false,
@@ -61,7 +61,7 @@
     {
         "type": "youtube_video_list",
         "data": {
-            "title": "Latest videos 📺",
+            "title": "Videos probando proyectos 📺",
             "user_id": "c/HectorAndresPulidoPalmar",
             "count": 3,
             "show_thumbnails": true,
@@ -74,38 +74,38 @@
     },
     {
         "type": "extra",
-        "data": "<p align=\"center\">\n<a href=\"#user-30538313-pinned-items-reorder-form\">\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=HectorPulido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\" alt=\"Hector's Github Stats\"/>\n</a>\n</p>"
+        "data": "<p align=\"center\">\n<a href=\"#user-30538313-pinned-items-reorder-form\">\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=alejomart789&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\" alt=\"Estado de Alejandro Martínez\"/>\n</a>\n</p>"
     },
     {
         "type": "social",
         "data": {
-            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">Conectate Conmigo 👀</h3>\n</div>",
             "social": [
                 {
-                    "alt": "Hector's LinkedIn",
-                    "url": "https://www.linkedin.com/in/hector-pulido-17547369/",
+                    "alt": "LinkedIn de Alejandro",
+                    "url": "https://www.linkedin.com/in/alejandro-mart%C3%ADnez-l%C3%B3pez-34329a1aa/",
                     "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
                 },
                 {
-                    "alt": "Hector's Twitter",
-                    "url": "https://twitter.com/Hector_Pulido_",
+                    "alt": "Twitter de Alejandro",
+                    "url": "https://twitter.com/AlejoMart_789",
                     "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
                 },
                 {
-                    "alt": "Hector's Twitch",
-                    "url": "https://www.twitch.tv/hector_pulido_",
-                    "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
+                    "alt": "YouTube de Alejandro",
+                    "url": "https://www.youtube.com/channel/UC8V9TI2i6Gd1zLOwegYAdaA",
+                    "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
                 },
                 {
-                    "alt": "Hector's Youtube",
-                    "url": "https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw",
-                    "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
+                    "alt": "Instagram de Alejandro",
+                    "url": "https://www.instagram.com/alejandro_m789/?hl=es",
+                    "image": "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
                 }
             ]
         }
     },
     {
         "type": "extra",
-        "data": "###### [* This is an autogenerate readme](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)"
+        "data": "###### [* Como Desarrollar esta pantalla](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)"
     }
 ]
