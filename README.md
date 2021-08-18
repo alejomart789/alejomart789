@@ -1,7 +1,7 @@
 # Hola, Soy Alejandro Martínez! 🤙🤟
 
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
+`De un mundo tan loco, todo es posible con tan solo un clic`<br><em> Soy un **Estudiante de Ingeniería de Sistemas**, dipuesto a aprender todos los días nuevas tecnologías para aumentar mis conocimiento y crear proyectos inimaginables por que creeo que **Nada es Imposible**</em>
 
 
 <p align="center">
