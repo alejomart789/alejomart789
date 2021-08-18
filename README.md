@@ -1,14 +1,11 @@
-# Hola, Soy Alejandro Martínez! 🤙🤟
+# Hola, Aqui con Alejandro Martínez! 🤙🤟
 
 
-`De un mundo tan loco, todo es posible con tan solo un clic`<br><em> Soy un **Estudiante de Ingeniería de Sistemas**, dipuesto a aprender todos los días nuevas tecnologías para aumentar mis conocimiento y crear proyectos inimaginables por que creeo que **Nada es Imposible**</em>
+`De un mundo tan loco, todo es posible con tan solo un clic`<br><em> Soy un **Estudiante de Ingeniería de Sistemas**, dipuesto a aprender todos los días nuevas tecnologías para aumentar mis conocimiento y crear proyectos inimaginables por que creeo que **Nada es Imposible**.</em>
 
 
 <p align="center">
 <a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/ai.md">🤖</a>
-<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/backend.md">💻</a>
 </p>
 
 
