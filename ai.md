@@ -9,8 +9,8 @@
 </p>
 
 
-<a href="https://twitter.com/Hector_Pulido_">
-<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
+<a href="https://msha.ke/alejomart789">
+<img align="right" height="auto" width="200" src="https://github.com/alejomart789/alejomart789/raw/master/img/LogoGitHub.png"/>
 </a>
 
 
