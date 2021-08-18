@@ -5,10 +5,10 @@
 
 
 <p align="center">
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/ai.md">🤖</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/backend.md">💻</a>
+<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/ai.md">🤖</a>
+<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/gamedev.md">🎮</a>
+<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/blockchain.md">🔑</a>
+<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/backend.md">💻</a>
 </p>
 
 
@@ -18,8 +18,6 @@
 
 
 ## Blockchain Projects 🔑
-- [Decentralized twitter with blockchain as base  🔑 💻](https://github.com/HectorPulido/Decentralized-Twitter-with-blockchain-as-base) 
-- [Amazon qldb login example  🔑 💻](https://github.com/HectorPulido/Amazon-QLDB-Login-Example) 
 
 
 
