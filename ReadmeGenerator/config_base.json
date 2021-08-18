@@ -2,7 +2,7 @@
     {
         "type": "config",
         "data": {
-            "githubUser": "HectorPulido",
+            "githubUser": "AlejoMart789",
             "categories": [
                 {
                     "name": "AI",
@@ -29,7 +29,7 @@
     },
     {
         "type": "intro",
-        "data": "Hello, Hector Pulido is Here! 👋"
+        "data": "Hola, Soy Alejandro Martínez! 👋"
     },
     {
         "type": "description",
