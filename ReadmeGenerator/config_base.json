@@ -8,32 +8,17 @@
                     "name": "AI",
                     "emoji": "🤖",
                     "tag": "ai"
-                },
-                {
-                    "name": "GameDev",
-                    "emoji": "🎮",
-                    "tag": "gamedev"
-                },
-                {
-                    "name": "Blockchain",
-                    "emoji": "🔑",
-                    "tag": "blockchain"
-                },
-                {
-                    "name": "Backend",
-                    "emoji": "💻",
-                    "tag": "backend"
                 }
             ]
         }
     },
     {
         "type": "intro",
-        "data": "Hola, Soy Alejandro Martínez! 🤙🤟"
+        "data": "Hola, Aqui con Alejandro Martínez! 🤙🤟"
     },
     {
         "type": "description",
-        "data": "`De un mundo tan loco, todo es posible con tan solo un clic`<br><em> Soy un **Estudiante de Ingeniería de Sistemas**, dipuesto a aprender todos los días nuevas tecnologías para aumentar mis conocimiento y crear proyectos inimaginables por que creeo que **Nada es Imposible**</em>"
+        "data": "`De un mundo tan loco, todo es posible con tan solo un clic`<br><em> Soy un **Estudiante de Ingeniería de Sistemas**, dipuesto a aprender todos los días nuevas tecnologías para aumentar mis conocimiento y crear proyectos inimaginables por que creeo que **Nada es Imposible**.</em>"
     },
     {
         "type": "categories",
