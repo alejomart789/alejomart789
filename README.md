@@ -10,7 +10,7 @@
 
 
 <a href="https://twitter.com/Hector_Pulido_">
-<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/logogitalejomart.png"/>
 </a>
 
 
