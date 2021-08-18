@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejomart789&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Estado de Alejandro Martínez"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejomart789&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Alejandro's Github Stats"/>
 </a>
 </p>
 
