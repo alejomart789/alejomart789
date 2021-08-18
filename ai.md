@@ -6,9 +6,6 @@
 
 <p align="center">
 <a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/ai.md">🤖</a>
-<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/AlejoMart789/AlejoMart789/blob/master/backend.md">💻</a>
 </p>
 
 
