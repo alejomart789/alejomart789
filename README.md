@@ -14,16 +14,9 @@
 </a>
 
 
-## Tech Stack ⌨
-- Applied mathematics ⭐
-- Python and Flask, Django ⭐
-- Pytorch ⭐
-- Rust and WASM ⭐
-- SQL and No relational Databases
-- Linux, AWS and Docker
-- Unity3D ⭐
-- Arduino and electronics
-- ASM for Pics
+## Tecnologias ⌨
+- Python ⭐
+- Java ⭐
 
 
 ## Cajón de Proyectos 📚
