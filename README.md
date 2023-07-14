@@ -1,7 +1,7 @@
-# Hola, Aqui con Alejandro Martínez! 🤙🤟
+# Hi, here with Alejandro Martinez! 🤙🤟
 
 
-`De un mundo tan loco, todo es posible con tan solo un clic`<br><em> Soy un **Estudiante de Ingeniería de Sistemas**, dipuesto a aprender todos los días nuevas tecnologías para aumentar mis conocimiento y crear proyectos inimaginables por que creeo que **Nada es Imposible**.</em>
+`Crear ideas inovadoras`<br><em> Soy un **Estudiante de Ingeniería de Sistemas**, dipuesto a aprender todos los días nuevas tecnologías para aumentar mis conocimiento y crear proyectos inimaginables por que creeo que **Todo es posible**.</em>
 
 
 <p align="center">
@@ -16,19 +16,10 @@
 
 ## Tecnologias ⌨
 - Python ⭐
-- Java ⭐
 
 
 ## Cajón de Proyectos 📚
 - Proximamente 🔐
-
-
-## Videos probando proyectos 📺
-<p align="center"><a href="https://www.youtube.com/watch?v=O8YMuxm5lxE" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/O8YMuxm5lxE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBn-SLFQ2CqC2-qzl5daHS-Mu2AZA"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=hvVg72uCMt4" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/hvVg72uCMt4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVDKL6v32wnUCY5-idSc7RBUNHyA"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=yvb-FmRFcoA" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/yvb-FmRFcoA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew"/></a>&nbsp;&nbsp;
-</p>
-
 
 <br>
 
